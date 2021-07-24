@@ -1,7 +1,7 @@
 --- 
 title: "কুরআন স্টাডি"
 author: "আহমদ বিন রফিক"
-date: "2021-07-19"
+date: "2021-07-24"
 site: bookdown::bookdown_site
 output:
   bookdown::gitbook:
