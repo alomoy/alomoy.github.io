@@ -3,7 +3,7 @@ language:
   ui:
     chapter_name: ""
 delete_merged_file: true
-output_dir: "study"
+output_dir: "boutput"
 chapter_name: ""
 repo: https://github.com/alomoy
 new_session: yes
