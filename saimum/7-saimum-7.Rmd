@@ -1,6 +1,6 @@
 # ৭ তিয়েনশানের ওপারে{- #tian-shan-er-opare}
 
-![](img/7-tian-shan-er-opare.jpg)
+<img style="float: right; border-radius: 5%;" src="img/7-tian-shan-er-opare.jpg" width="30%">
 
 পরাজিত ওয়ার্ল্ড ফোর্সেস ফ্র’-এর ক্রাধােন্মত্ত জেনারেল বােরিস আহমদ মুসাকে কিডন্যাপ করে কোথায় পালাল?...
 
