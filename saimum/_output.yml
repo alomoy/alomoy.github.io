@@ -1,12 +1,13 @@
 bookdown::gitbook:
   toc_depth: 2
   css: style.css
-  config: # 'config' is a direct child of 'bookdown::gitbook'
-    toc: # 'toc' is a direct child of 'config'
+  config:
+    toc:
       collapse: section
       scroll_highlight: true
-      before: | # 'before' is a direct child of 'toc'
+      before: |
         <li><a href="./">সাইমুম সিরিজ</a></li>
-      after: | # 'after' is a direct child of 'toc'
-        <li><a href="https://github.com/alomoy/alomoy.github.io" target="blank">সাইমুম সিরিজ</a></li>
-    edit: https://github.com/alomoy/alomoy.github.io/edit/master/%s # 'edit' is a direct child of 'config'
+      after: |
+        <li><a href="https://github.com/alomoy/alomoy/edit/master/%s" target="blank">সাইমুম সিরিজ</a></li>
+    edit: https://github.com/alomoy/alomoy.github.io/edit/master/%s
+  split_by: "section" # <--- THIS IS THE KEY ADDITION
