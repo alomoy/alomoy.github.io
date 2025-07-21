@@ -1,0 +1,8 @@
+book_filename: "saimum"
+language:
+  ui:
+    chapter_name: "অধ্যায় "
+delete_merged_file: true
+output_dir: "."
+chapter_name: "অধ্যায় "
+repo: https://github.com/alomoy/alomoy.github.io

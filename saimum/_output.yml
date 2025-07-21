@@ -1,0 +1,12 @@
+bookdown::gitbook:
+  toc_depth: 2
+  css: style.css
+  config:
+    toc:
+      before: |
+        <li><a href="./">সাইমুম সিরিজ</a></li>
+      after: |
+        <li><a href="https://github.com/alomoy/alomoy.github.io" target="blank">সাইমুম সিরিজ</a></li>
+    edit: https://github.com/alomoy/alomoy.github.io/edit/master/%s
+
+
