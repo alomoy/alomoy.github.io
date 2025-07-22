@@ -6,8 +6,11 @@ bookdown::gitbook:
       collapse: section
       scroll_highlight: true
       before: |
-        <li><a href="./">সাইমুম সিরিজ</a></li>
+        <li><a href="./">
+          <img src="https://github.com/alomoy/alomoy.github.io/blob/master/logo.png?raw=true" alt="Alomoy" style="height: 30px; vertical-align: middle; margin-right: 10px;"> <!-- Add your image here -->
+         আলোময়  ~ সাইমুম সিরিজ
+        </a></li>
       after: |
-        <li><a href="https://github.com/alomoy/alomoy/edit/master/%s" target="blank">সাইমুম সিরিজ</a></li>
+        <li><a href="https://github.com/alomoy/alomoy/edit/master/%s" target="blank">আলোময় ডট নেট | সাইমুম সিরিজ</a></li>
     edit: https://github.com/alomoy/alomoy.github.io/edit/master/%s
-  split_by: "section" # <--- THIS IS THE KEY ADDITION
+  split_by: "section"
