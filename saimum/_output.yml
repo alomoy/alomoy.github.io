@@ -12,5 +12,5 @@ bookdown::gitbook:
         </a></li>
       after: |
         <li><a href="https://github.com/alomoy/alomoy/edit/master/%s" target="blank">আলোময় ডট নেট | সাইমুম সিরিজ</a></li>
-    edit: https://github.com/alomoy/alomoy.github.io/edit/master/%s
+    # edit: https://github.com/alomoy/alomoy.github.io/edit/master/%s
   split_by: "section"
