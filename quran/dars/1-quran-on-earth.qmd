@@ -1,0 +1,86 @@
+---
+title: "The Quran on Earth"
+subtitle: ""
+author: Abdullah Al Mahmud
+format: revealjs
+---
+
+# About Earth
+
+<div class="container">
+<div class="col">
+> - Age
+> - Shape
+> - Distance from Sun
+> - Speed: 30km/s, 460m/s rotation
+> - Escape velocity
+</div>
+<div class="col">
+<a href="img/earth_rad.jpg"> <img width="780" src="img/earth_rad.jpg" style="background:none; border:none; box-shadow:none;"></a>
+
+<a href="img/earth_rad.jpg"> <img width="580" src="img/sun-movement.jpg" style="background:none; border:none; box-shadow:none;"></a>
+</div>
+</div>
+
+
+## Tilt & Seasons
+
+<img width="680" src="img/earth-seasons.avif" style="background:none; border:none; box-shadow:none;">
+
+*Source: [The conversation](https://theconversation.com/how-the-earths-tilt-creates-short-cold-january-days-173403)*
+
+## People on Earth
+
+<img width="680" src="img/people.jpg" style="background:none; border:none; box-shadow:none;">
+
+## Atmoshphere
+
+<div class="container">
+<div class="col">
+<img width="580" src="img/earth-atmoshphere.jpg" style="background:none; border:none; box-shadow:none;">
+</div>
+<div class="col">
+> - 78% N
+> - 21 % $O_2$
+> - up to 10km high, moving along
+> - Kármán line
+> - Roof
+</div>
+</div>
+
+## Interior
+
+<div class="container">
+<div class="col">
+<img width="580" src="img/earth-interior.png" style="background:none; border:none; box-shadow:none;">
+</div>
+<div class="col">
+> - Oxygen 46%
+> - 28% Si, Al 8%, Fe 5%, Ca 4% + Others
+</div>
+</div>
+
+
+## Habitability
+
+<div class="container">
+<div class="col">
+<img width="580" src="img/hab_zone-1.jpeg" style="background:none; border:none; box-shadow:none;">
+</div>
+<div class="col">
+> - Atmoshphere
+> - Gravity & pressure
+> - Distance (Goldilocks zone)
+</div>
+</div>
+
+# The Quran
+
+> - Term: ارض
+> - Meaning: Land, Earth, country
+
+## Spread-out
+
+> - Like a bed <a href="https://tanzil.net/#2:22">2:22 <a/>
+> - Spread the earth <a href="https://tanzil.net/#13:3">13:3<a/>
+> - Easy to walk: <a href="https://tanzil.net/#67:15">67:15<a/>
