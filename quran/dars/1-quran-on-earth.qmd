@@ -17,8 +17,9 @@ format: revealjs
 </div>
 <div class="col">
 <a href="img/earth_rad.jpg"> <img width="780" src="img/earth_rad.jpg" style="background:none; border:none; box-shadow:none;"></a>
-
+<!--
 <a href="img/earth_rad.jpg"> <img width="580" src="img/sun-movement.jpg" style="background:none; border:none; box-shadow:none;"></a>
+-->
 </div>
 </div>
 
@@ -79,8 +80,14 @@ format: revealjs
 > - Term: ارض
 > - Meaning: Land, Earth, country
 
-## Spread-out
+## Signs from the Quran
 
-> - Like a bed <a href="https://tanzil.net/#2:22">2:22 <a/>
-> - Spread the earth <a href="https://tanzil.net/#13:3">13:3<a/>
-> - Easy to walk: <a href="https://tanzil.net/#67:15">67:15<a/>
+[Complete List](quran_earth_verses.html)
+
+## Scientific Signs in the Quran
+
+## Dua
+
+وَمِنْهُم مَّن يَقُولُ رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ
+
+## QA
