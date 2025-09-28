@@ -2,14 +2,34 @@
 title: "The Quran on Earth"
 subtitle: ""
 author: Abdullah Al Mahmud
-format: revealjs
+format:
+  revealjs:
+    navigation-mode: grid
 ---
+
+## Motivation
+
+<div class="container">
+<div class="col">
+> - Quran: an exposition of all things
+> - Signs: not to reveal facts, but to admonish/remind
+> - A muslim is supposed to have a basic understanding of all things
+> - Purpose: Tawhid, Risalah, and Akhira (<a href="https://tanzil.net/#22:5">22:5</a>)
+> - Mutashabiha
+
+</div>
+<div class="col">
+<a href="img/quran.webp"> <img width="780" src="img/quran.webp" style="background:none; border:none; box-shadow:none;"></a>
+
+</div>
+</div>
+
 
 # About Earth
 
 <div class="container">
 <div class="col">
-> - Age
+> - Age: 4.54 B yrs
 > - Shape
 > - Distance from Sun
 > - Speed: 30km/s, 460m/s rotation
@@ -30,6 +50,10 @@ format: revealjs
 
 *Source: [The conversation](https://theconversation.com/how-the-earths-tilt-creates-short-cold-january-days-173403)*
 
+## All Seasons
+
+<img width="680" src="img/seasons.png" style="background:none; border:none; box-shadow:none;">
+
 ## People on Earth
 
 <img width="680" src="img/people.jpg" style="background:none; border:none; box-shadow:none;">
@@ -43,7 +67,7 @@ format: revealjs
 <div class="col">
 > - 78% N
 > - 21 % $O_2$
-> - up to 10km high, moving along
+> - up to 10,000km high, moving along
 > - Kármán line
 > - Roof
 </div>
@@ -151,13 +175,56 @@ Otherwise
 </div>
 </div>
 
+# Akhira
 
+Two meanings
 
-## Akhirah
+> - The Benginning of Apocalypse (Qiyamah/Hour)
+> - The Judgement day
+
+## Earth in Akhirah
+
+<div class="container">
+<div class="col">
+> - The Hour Weighs Heavy
+> - Earth and Heavens Replaced
+> - Creature from the Earth
+> - Earth in His Grip
+> - What the Earth Consumes
+</div>
+<div class="col">
+> - Earth Breaks Open
+> - Earth Shaken
+> - Earth and Mountains Leveled
+> - Mountains Become Sand
+> - Earth Extended
+</div>
+</div>
+
+## Akhirah (Contd)
+
+<div class="container">
+<div class="col">
+> - Earth Crushed
+> - Earthquake of the Hour
+> - Earth Discharges Its Burdens
+</div>
+<div class="col">
+
+</div>
+</div>
 
 ## Scientific Signs in the Quran
 
-## Dua
+> - Creation from smoke (41:11)
+> - Was joined together (21:30)
+> - Created all things between heavens and earth
+> - Each body has orbit (21:33, 36:40)
+> - Solar apex (36:38)
+> - Expansion of universe (51:47)
+> - Everything from water (21:30)
+
+## Dua (2:201)
 
 وَمِنْهُم مَّن يَقُولُ رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ
 
